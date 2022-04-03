@@ -48,3 +48,9 @@ uvicorn==0.15.0
 watchgod==0.7
 websocket-client==0.59.0
 websockets==10.1
+response~=0.5.0
+Scrapy~=2.6.1
+itemadapter~=0.5.0
+self~=2020.12.3
+bs4~=0.0.1
+beautifulsoup4~=4.10.0
