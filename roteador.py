@@ -7,16 +7,3 @@ for i in range ( 49, 1969, 48 ):
     paginas = []
     paginas = soup.find_all( 'h2', attrs={'class' : 'ui-search-item__title ui-search-item__group__element'} )
 
-
-
-
-
-
-
-
-
-
-
-
-
-
